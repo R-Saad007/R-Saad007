@@ -14,7 +14,7 @@ I enjoy working at the intersection of software engineering and intelligent syst
 
 - 👨‍💻 Explore my work on [GitHub](https://github.com/R-Saad007)
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1b45CQoLX11D1bcSu7T0jGNA2jo1YLqjI/view?usp=sharing)
-- ⚡ Fun fact: **I can hold conversations ranging from being a movie critic, an Esports gamer, Formula 1 fan, and fitness all the way to philosophy, nihilism, love, and religion**
+- ⚡ Fun fact: **I can hold conversations ranging from being a movie critic, an Esports gamer, Formula 1 fan, and fitness all the way to philosophy, nihilism, love, and religion (There is a high chance I may pick on the niche reference thrown)**
 
 <h5>Feel free to connect with me to discuss technology, innovation, or anything weird!</h5>
 
