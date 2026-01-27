@@ -12,7 +12,7 @@ I enjoy working at the intersection of software engineering and intelligent syst
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=R-Saad007&style=for-the-badge)
 
-- 👨‍💻 Explore my work on [GitHub](https://github.com/R-Saad007)
+- 👨‍💻 Explore my work on [GitHub](https://github.com/R-Saad007?tab=repositories)
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1b45CQoLX11D1bcSu7T0jGNA2jo1YLqjI/view?usp=sharing)
 - ⚡ Fun fact: **I can hold conversations ranging from being a movie critic, an Esports gamer, Formula 1 fan, and fitness all the way to philosophy, nihilism, love, and religion (There is a high chance I may pick on the niche reference thrown)**
 
