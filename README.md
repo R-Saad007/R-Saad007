@@ -41,3 +41,4 @@ I enjoy working at the intersection of software engineering and intelligent syst
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangGraph-%23000000.svg?style=for-the-badge)
