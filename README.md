@@ -3,7 +3,7 @@
 <h5 align="left" line-height="1.5">
 I’m a Software Engineer building production-grade AI systems across LLMs, agentic architectures, computer vision, and scalable backend platforms. I’ve delivered end-to-end solutions across smart cities & IoT, retail, healthcare, aviation analytics, and telecom taking systems from research and prototyping to deployment.
 <br/><br/>
-My work includes RAG-based assistants using LangGraph and Amazon Bedrock, low-latency edge computer vision pipelines, and tool-augmented AI agents capable of multi-step reasoning. I’ve recently developed a Telecom AI Agent to showcase agentic workflows and built Eco-Source-Optimizer, an intelligent optimization platform focused on data-driven decision support.
+My work includes CRAG-based assistants using LangGraph and Amazon Bedrock, low-latency edge computer vision pipelines, and tool-augmented AI agents capable of multi-step reasoning. I’ve recently developed a Telecom AI Agent to showcase agentic workflows and built Eco-Source-Optimizer, an intelligent optimization platform focused on data-driven decision support.
 <br/><br/>
 I enjoy working at the intersection of software engineering and intelligent systems turning complex requirements into clean, testable, and user-focused solutions.
 </h5>
