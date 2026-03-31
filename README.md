@@ -17,7 +17,7 @@ I enjoy working at the intersection of software engineering and intelligent syst
 <h5>Feel free to connect with me to discuss technology, innovation, or anything weird!</h5>
 
 ## 🌐 Socials:
-([![Instagram](https://img.shields.io/badge/Instagram-%23003E54.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/r_einzelganger)
+[![Instagram](https://img.shields.io/badge/Instagram-%23003E54.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/r_einzelganger)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-imran-rana)
 [![Devpost](https://img.shields.io/badge/Devpost-%23003E54.svg?logo=devpost&logoColor=white)](https://devpost.com/R-Saad007)
 
