@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Saad aka Neo</h1>
+<h1 align="left">Hey there, I'm Saad aka Neo</h1>
 
 <h5 align="left" line-height="1.5">
 I’m a Software Engineer building production-grade AI systems across LLMs, agentic architectures, computer vision, and scalable backend platforms. I’ve delivered end-to-end solutions across smart cities & IoT, retail, healthcare, aviation analytics, and telecom taking systems from research and prototyping to deployment.
