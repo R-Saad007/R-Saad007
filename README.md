@@ -3,19 +3,16 @@
 <h5 align="left" line-height="1.5">
 I’m a Software Engineer building production-grade AI systems across LLMs, agentic architectures, computer vision, and scalable backend platforms. I’ve delivered end-to-end solutions across smart cities & IoT, retail, healthcare, aviation analytics, and telecom taking systems from research and prototyping to deployment.
 <br/><br/>
-My work includes CRAG-based assistants using LangGraph and Amazon Bedrock, low-latency edge computer vision pipelines, and tool-augmented AI agents capable of multi-step reasoning. I’ve recently developed a Telecom AI Agent to showcase agentic workflows and built Eco-Source-Optimizer, an intelligent optimization platform focused on data-driven decision support.
+My work includes CRAG-based assistants using LangGraph and Amazon Bedrock, low-latency edge computer vision pipelines, and tool-augmented AI agents capable of multi-step reasoning.
 <br/><br/>
 I enjoy working at the intersection of software engineering and intelligent systems turning complex requirements into clean, testable, and user-focused solutions.
 </h5>
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=R-Saad007&style=for-the-badge)
 
 - 👨‍💻 Explore my work on [GitHub](https://github.com/R-Saad007?tab=repositories)
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1apJWU4ebcyk3ZtycXhWsMed2yVz3dZw_/view?usp=sharing)
 - ⚡ Fun fact: **I can hold conversations that range from movies, Esports, Formula 1, and fitness to philosophy, nihilism, love, and religion; there’s a high chance I’ll catch any niche reference you throw in.**
 
-<h5>Feel free to connect with me to discuss technology, innovation, or anything weird!</h5>
-
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23003E54.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/r_einzelganger)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-imran-rana)
