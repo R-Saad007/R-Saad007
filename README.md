@@ -9,7 +9,7 @@ I enjoy working at the intersection of software engineering and intelligent syst
 </h5>
 
 - 👨‍💻 Explore my work on [GitHub](https://github.com/R-Saad007?tab=repositories)
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1apJWU4ebcyk3ZtycXhWsMed2yVz3dZw_/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1g0nGcC71NWS51DJPieCtv6HcMYPmhdcQ/view?usp=sharing)
 - ⚡ Fun fact: **I can hold conversations that range from movies, Esports, Formula 1, and fitness to philosophy, nihilism, love, and religion; there’s a high chance I’ll catch any niche reference you throw in.**
 
   
