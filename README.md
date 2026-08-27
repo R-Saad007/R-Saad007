@@ -1,13 +1,4 @@
 <h1 align="left">I'm Saad aka Neo</h1>
-
-<h5 align="left" line-height="1.5">
-I’m a Software Engineer building production-grade AI systems across LLMs, agentic architectures, computer vision, and scalable backend platforms. I’ve delivered end-to-end solutions across smart cities & IoT, retail, healthcare, aviation analytics, and telecom taking systems from research and prototyping to deployment.
-<br/><br/>
-My work includes CRAG-based assistants using LangGraph and Amazon Bedrock, low-latency edge computer vision pipelines, and tool-augmented AI agents capable of multi-step reasoning.
-<br/><br/>
-I enjoy working at the intersection of software engineering and intelligent systems turning complex requirements into clean, testable, and user-focused solutions.
-</h5>
-
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23003E54.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/saad.imran.rana/)
