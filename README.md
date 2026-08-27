@@ -8,10 +8,6 @@ My work includes CRAG-based assistants using LangGraph and Amazon Bedrock, low-l
 I enjoy working at the intersection of software engineering and intelligent systems turning complex requirements into clean, testable, and user-focused solutions.
 </h5>
 
-- 👨‍💻 Explore my work on [GitHub](https://github.com/R-Saad007?tab=repositories)
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1g0nGcC71NWS51DJPieCtv6HcMYPmhdcQ/view?usp=sharing)
-- ⚡ Fun fact: **I can hold conversations that range from movies, Esports, Formula 1, and fitness to philosophy, nihilism, love, and religion; there’s a high chance I’ll catch any niche reference you throw in.**
-
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23003E54.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/saad.imran.rana/)
