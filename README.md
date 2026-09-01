@@ -1,5 +1,5 @@
 <h1 align="left">I'm Saad aka Neo</h1>
-<h2 align="left">If only you could visit my museum of failures.</h2>
+<p2 align="left">If only you could visit my museum of failures.</p2>
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23003E54.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/saad.imran.rana/)
